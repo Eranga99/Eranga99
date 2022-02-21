@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eranga99
+- 👋 Hi, I’m Eranga
 - 👀 I’m interested in python, data analysis and networking.
 - 🌱 I’m currently an undergraduate
 - 📫 My email keranga19@gmail.com
